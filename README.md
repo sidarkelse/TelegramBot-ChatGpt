@@ -1,5 +1,5 @@
 
-﻿ *****------------------------------TelegramBot-ChatGpt--------------------------******
+﻿ **------------------------------TelegramBot-ChatGpt--------------------------**
 ﻿ **#BotTelegram-Chatgpt**
 Um chatbot desenvolvido em Node.js capaz de responder a mensagens do Telegram usando a API do OpenAI. Ele utiliza o modelo "text-davinci-003" para gerar respostas coerentes e relevantes com base na mensagem recebida.
 
