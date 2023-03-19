@@ -14,9 +14,9 @@ Antes de executar o bot, é preciso configurar algumas variáveis de ambiente. V
 Para iniciar o bot, basta executar o comando npm start. O bot irá ficar ouvindo as mensagens do Telegram e gerando respostas usando o modelo do OpenAI. As respostas serão enviadas de volta para o usuário que enviou a mensagem original.
 
 ﻿ **# Dependências**
-Node - telegram-bot-api - Para instalar é Só usar  npm install node-telegram-bot-api
-
-Openai-  Para instalar é Só usar npm install openai
+  
+Node - telegram-bot-api - Para instalar é Só usar  npm install node-telegram-bot-api -
+Openai- Para instalar é Só usar npm install openai -
 
 
 ﻿ **#Sobre a configuração do Bot**  
