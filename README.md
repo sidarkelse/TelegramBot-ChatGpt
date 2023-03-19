@@ -2,7 +2,7 @@
 ﻿﻿ **------------------------------TelegramBot-ChatGpt--------------------------**
 ****
 ﻿ **#BotTelegram-Chatgpt**
-Um chatbot desenvolvido em Node.js capaz de responder a mensagens do Telegram usando a API do OpenAI. Ele utiliza o modelo "text-davinci-003" para gerar respostas coerentes e relevantes com base na mensagem recebida.
+É Um chatbot desenvolvido em Node.js capaz de responder a mensagens do Telegram usando a API do OpenAI. Ele utiliza o modelo "text-davinci-003" para gerar respostas coerentes e relevantes com base na mensagem recebida.
 
 ﻿ **#Instalação**
 Para usar o BotTelegram-Chatgpt, é necessário ter o Node.js e o gerenciador de pacotes npm instalados na sua máquina. Depois disso, basta clonar o repositório e instalar as dependências usando o comando npm install.
@@ -14,8 +14,8 @@ Antes de executar o bot, é preciso configurar algumas variáveis de ambiente. V
 Para iniciar o bot, basta executar o comando npm start. O bot irá ficar ouvindo as mensagens do Telegram e gerando respostas usando o modelo do OpenAI. As respostas serão enviadas de volta para o usuário que enviou a mensagem original.
 
 ﻿ **# Dependências**
-node-telegram-bot-api - Para instalar é Só usar  npm install node-telegram-bot-ap
-openai -  Para instalar é Só usar npm install openai
+**node** - telegram-bot-api - Para instalar é Só usar  npm install node-telegram-bot-ap
+**openai** -  Para instalar é Só usar npm install openai
 
 
 ﻿ **#Sobre a configuração do Bot**  
